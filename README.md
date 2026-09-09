@@ -1,161 +1,65 @@
+<h1 align="center">Hi there, I'm Aashish Kumar 👋</h1>
+<h3 align="center">⚡ Backend & Spring Boot Developer | Java Enthusiast ⚡</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Building+Scalable+REST+APIs;Spring+Boot+%26+Microservices;Clean+Code+%26+Database+Architecture" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+### 🚀 Tech Stack
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=200&section=header&text=Aashish%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20%7C%20Backend%20Developer%20%7C%20AWS%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://github.com/Aashish-kumar01">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Hi+there%2C+I'm+Aashish+%F0%9F%91%8B;Java+%26+Spring+Boot+Developer;Full-Stack+Web+Developer;AWS+%26+Cloud+Enthusiast;Always+learning%2C+always+building" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aashish-kumar01&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Aashish-kumar01?style=for-the-badge&color=58A6FF&labelColor=0f2027)
-![GitHub last commit](https://img.shields.io/github/last-commit/Aashish-kumar01/Aashish-kumar01?style=for-the-badge&color=58A6FF&labelColor=0f2027)
-
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <br/><br/>
+  <!-- Frameworks & Backend -->
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br/><br/>
+  <!-- Databases & Tools -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-```java
-public class Aashish {
-    private String role = "BTech CSE Student";
-    private String[] focus = {"Java", "Spring Boot", "Backend Development"};
-    private String[] exploring = {"AWS", "Cloud Computing", "System Design"};
-    private String status = "Building real-world projects 🚀";
-}
-```
-
-- 🎓 BTech Computer Science Engineering student
-- ☕ Currently sharpening Core Java, OOPs & DSA
-- 🌱 Learning Spring Boot & backend development
-- ☁️ Exploring AWS & cloud computing
-- 💻 Practicing DSA in Java
-- 🚀 Building real-world, production-style projects
-- 💬 Ask me about Java, Spring Boot, or REST APIs
-
----
-
-## 🛠️ Tech Stack
+### 🐍 Contribution Activity & Snake
 
 <div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,js,ts,py" />
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,postman" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,html,css,js" />
-
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-**Cloud & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,git,github,idea,maven" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aashish-kumar01/Aashish-kumar01/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aashish-kumar01/Aashish-kumar01/output/github-snake.svg">
+    <img alt="GitHub Snake contribution grid" src="https://raw.githubusercontent.com/Aashish-kumar01/Aashish-kumar01/output/github-snake-dark.svg">
+  </picture>
 </div>
 
 ---
 
-## 📌 Featured Projects
+### 📊 GitHub Analytics
 
 <div align="center">
-
-| Project | Description | Stack |
-|---|---|---|
-| 🔹 **Alumni Networking Hub** | Platform for connecting students and alumni | Java · Spring Boot · React |
-| 🔹 **Student Record API** | REST API for managing student records | Spring Boot · REST · MySQL |
-| 🔹 **DSA in Java** | DSA learning & problem-solving repository | Java |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Aashish-kumar01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aashish's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-kumar01&theme=tokyonight&hide_border=true" alt="Aashish's GitHub Streak" width="48%" />
 </div>
 
-> ✏️ Add your repo links here, e.g. `[Alumni Networking Hub](https://github.com/Aashish-kumar01/alumni-networking-hub)` — swap in your real repo names.
-
----
-
-## 📊 GitHub Stats & Streak
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aashish-kumar01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-kumar01&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashish-kumar01&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashish-kumar01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aashish-kumar01&theme=tokyo-night&hide_border=true&area=true" width="90%" />
-
-</div>
-
-### 🐍 Animated Contribution Snake
-
-<div align="center">
-
-<img src="./output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
-> 🐍 This "snake eats your contribution graph" animation needs a one-time GitHub Action. A ready-to-use `snake.yml` workflow is included alongside this README — see the setup note below.
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aashish-kumar01&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/-Java-58A6FF?style=for-the-badge&logo=openjdk&logoColor=white)
-![DSA](https://img.shields.io/badge/-DSA-58A6FF?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-58A6FF?style=for-the-badge&logo=springboot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-58A6FF?style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-58A6FF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![System Design](https://img.shields.io/badge/-System%20Design-58A6FF?style=for-the-badge)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Aashish--kumar01-181717?style=for-the-badge&logo=github)](https://github.com/Aashish-kumar01)
-
-<!-- Add more links as you create them, e.g.:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
--->
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
-
-<div align="center">
-
-⭐ **Thanks for visiting my profile — let's build something great!**
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=100&section=footer" width="100%"/>
+</p>
