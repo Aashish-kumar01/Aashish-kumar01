@@ -49,14 +49,6 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aashish-kumar01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aashish's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-kumar01&theme=tokyonight&hide_border=true" alt="Aashish's GitHub Streak" width="48%" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashish-kumar01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
 
 ---
 
