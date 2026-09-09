@@ -106,7 +106,7 @@ public class Aashish {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aashish-kumar01/Aashish-kumar01/output/github-contribution-grid-snake.svg" width="90%" />
+<img src="./output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
