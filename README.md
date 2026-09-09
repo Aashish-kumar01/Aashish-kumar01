@@ -1,106 +1,45 @@
-# Hi 👋, I'm Aashish Kumar
+<!-- ===================== HEADER ===================== -->
 
-### ☕ Java Backend Developer | Spring Boot | REST APIs | AWS | DSA
+<div align="center">
 
-I'm a Computer Science Engineering student and aspiring **Java Backend Developer** passionate about building scalable backend applications, designing REST APIs, and solving problems using Java.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Aashish%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-I enjoy learning backend technologies and turning ideas into real-world applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;AWS+Cloud+Enthusiast;DSA+%7C+Problem+Solving;Building+Scalable+Backend+Systems" />
 
----
+<br/>
 
-## 👨‍💻 About Me
+<a href="https://github.com/Aashish-kumar01">
+<img src="https://img.shields.io/github/followers/Aashish-kumar01?label=Followers&style=for-the-badge&logo=github"/>
+</a>
 
-- 🔭 Currently working on **Java Backend Development**
-- ☕ Strongly focused on **Java & Object-Oriented Programming**
-- 🌱 Currently learning **Spring Boot, REST APIs & AWS**
-- 🧠 Practicing **Data Structures & Algorithms in Java**
-- 🗄️ Working with **MySQL & MongoDB**
-- 🔧 Using **Git, GitHub, Maven, Postman & IntelliJ IDEA**
-- 🎯 Goal: Become a skilled **Java Backend Engineer**
-- 💡 Interested in Backend Development, Cloud Computing & System Design
+<a href="https://github.com/Aashish-kumar01?tab=repositories">
+<img src="https://img.shields.io/github/stars/Aashish-kumar01?label=Stars&style=for-the-badge&logo=github"/>
+</a>
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python" />
-</p>
-
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,postman,maven" />
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 👋 Hi, I'm Aashish Kumar
 
-### 🔹 Alumni Networking Hub
-A platform designed to connect students and alumni, providing features for networking, events, job opportunities and communication.
+### ☕ Java Backend Developer | Spring Boot | REST APIs | AWS
 
-**Tech:** React, TypeScript, Java Backend, REST APIs
+I'm a Computer Science Engineering student passionate about **Java Backend Development**, **REST API design**, **Cloud Computing**, and **Data Structures & Algorithms**.
 
----
+I enjoy building practical applications, learning backend technologies, and continuously improving my problem-solving skills.
 
-### 🔹 Student Record API
-A backend REST API for managing student records and performing CRUD operations.
+```java
+public class AashishKumar {
 
-**Tech:** Java, REST API, JavaScript
+    String role = "Java Backend Developer";
+    String[] interests = {
+        "Backend Development",
+        "Spring Boot",
+        "REST APIs",
+        "AWS",
+        "Data Structures & Algorithms"
+    };
 
----
+    String goal = "Build scalable and reliable backend systems";
 
-### 🔹 DSA in Java
-A structured repository containing my Data Structures & Algorithms learning journey and problem-solving practice.
-
-**Topics:** Arrays, Sorting, Binary Search, Strings, Recursion, Stack and more.
-
----
-
-## 📚 Currently Learning
-
-```text
-Java
- ├── OOP
- ├── Collections
- ├── Exception Handling
- ├── Multithreading
- └── Java 8+
-
-Spring
- ├── Spring Core
- ├── Spring Boot
- ├── REST APIs
- ├── Spring Data JPA
- └── Spring Security
-
-Cloud
- ├── AWS
- ├── EC2
- ├── S3
- ├── IAM
- └── Cloud Fundamentals
-
-DSA
- ├── Arrays
- ├── Sorting
- ├── Binary Search
- ├── Recursion
- ├── Stack
- └── Problem Solving
+}
