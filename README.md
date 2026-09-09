@@ -28,7 +28,7 @@
 - 👯 I'm looking to collaborate on **Java, Spring Boot, and Full-Stack open-source projects**
 - 💬 Ask me about **Java, Spring Boot, Spring Security, REST APIs, MySQL, MongoDB**
 - ⚡ Fun fact: I debug better with coffee ☕
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **kumarashish69959@gmail.com**
 - 🌐 GitHub Profile: **[github.com/Aashish-kumar01](https://github.com/Aashish-kumar01)**
 
 ---
