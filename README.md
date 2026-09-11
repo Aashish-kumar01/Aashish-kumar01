@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:" target="_blank">
+  <a href="mailto:kumarashish69959@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Aashish-kumar01" target="_blank">
@@ -47,14 +47,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-kumar01&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Aashish-kumar01&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ### 📈 Daily Contribution Graph
 <p align="center">
-  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=Aashish-kumar01&theme=github-compact&hide_border=true&area=true" alt="Daily Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aashish-kumar01&theme=github-compact&hide_border=true&area=true" alt="Daily Contribution Graph" />
 </p>
 
 ---
@@ -81,7 +81,7 @@
 <p align="center">
   <a href="https://github.com/Aashish-kumar01"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&colorB=555" /></a>
   <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&colorB=555" /></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=Gmail&logoColor=white&colorB=555" /></a>
+  <a href="mailto:kumarashish69959@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=Gmail&logoColor=white&colorB=555" /></a>
   <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode&logoColor=white&colorB=555" /></a>
 </p>
 
